@@ -48,13 +48,13 @@ This resulted in **4 categories** instead of what is given in instructions.
 
 ---
 
-## 📊 Results
+##  Results
 - **Clusters were poorly separated** due to dataset limitations and adapted labeling scheme  
 - **Silhouette scores** were negative across runs  
 - Both **t-SNE and Isomap** visualizations highlighted overlapping and noisy labels, reflecting the **data veracity challenges** in this dataset  
 
 ---
 
-## 📝 Disclaimer
+## ⚠️ Disclaimer
 Due to mismatches between the dataset and assignment instructions, results should be interpreted with caution.  
 The visualizations are still valuable in illustrating **ambiguity, overlap, and hard-to-learn samples**, aligning with the spirit of the assignment.
