@@ -54,7 +54,3 @@ This resulted in **4 categories** instead of what is given in instructions.
 - Both **t-SNE and Isomap** visualizations highlighted overlapping and noisy labels, reflecting the **data veracity challenges** in this dataset  
 
 ---
-
-## ⚠️ Disclaimer
-Due to mismatches between the dataset and assignment instructions, results should be interpreted with caution.  
-The visualizations are still valuable in illustrating **ambiguity, overlap, and hard-to-learn samples**, aligning with the spirit of the assignment.
